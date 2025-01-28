@@ -1,1 +1,1 @@
-# Smoking-detection-and-distance-analysis
+# Smoking detection and distance analysis
