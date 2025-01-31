@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="https://github.com/lorenzopaoria/Smoking-detection-and-distance-analysis/tree/048445ce72d1d1b292e1e2e7d6edac3a2aab296c/Logo"/>
+</div>
+
 # Smoking detection and distance analysis
-# Smoking Detection Project
 
 ## Overview
 This project implements a smoking detection system using object detection techniques with Faster R-CNN to identify cigarettes, smokers, and non-smokers in images.
