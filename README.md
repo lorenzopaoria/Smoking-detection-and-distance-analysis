@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lorenzopaoria/Smoking-detection-and-distance-analysis/tree/048445ce72d1d1b292e1e2e7d6edac3a2aab296c/Logo"/>
+  <img src="https://github.com/lorenzopaoria/Smoking-detection-and-distance-analysis/blob/7166f993e1fcce8dee768ad3523857a733f61be1/Logo/logo.jpg"/>
 </div>
 
 # Smoking detection and distance analysis
