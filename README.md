@@ -33,7 +33,7 @@ This project implements a smoking detection system using object detection techni
 ## Key Features
 - Multi-class object detection (cigarettes, smokers, non-smokers)
 - Performance evaluation using COCO metrics
-- Distance calculation between detected entities
+- Distance calculation between detected entities ##TODO
 
 ## Requirements
 - PyTorch
