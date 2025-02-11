@@ -2,3 +2,5 @@
 /pth_person_detect
 /Photo cigarette 
 /Photo person
+cigarettes_model_load.ipynb
+model_train_cigarette.ipynb
