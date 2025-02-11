@@ -5,14 +5,14 @@
 # Smoking detection and distance analysis
 
 ## Overview
-This project implements a smoking detection system using object detection techniques with Faster R-CNN to identify cigarettes, smokers, and non-smokers in images.
+This project implements a smoking detection system using object detection techniques with YOLOv11 to identify cigarettes, smokers, and non-smokers in images.
 
 ## Dataset
 **Source**: [Smoking Detection Dataset on Roboflow](https://universe.roboflow.com/alt-f4-dom2z/smoking_detection_v3_noisefree)
 
 ### Dataset Characteristics
-- **Total Images**: Approximately 500-1000 images
-- **Annotation Type**: COCO format
+- **Total Images**: Approximately 700 images
+- **Annotation Type**: YOLO format
 - **Classes**:
   - Cigarette
   - Smoker
@@ -26,19 +26,18 @@ This project implements a smoking detection system using object detection techni
 - Balanced class distribution
 
 ## Technical Details
-- **Model**: Faster R-CNN with ResNet50 FPN backbone
+- **Model**: YOLOv11
 - **Framework**: PyTorch
 - **Development Environment**: Google Colab
 
 ## Key Features
 - Multi-class object detection (cigarettes, smokers, non-smokers)
-- Performance evaluation using COCO metrics
 - Distance calculation between detected entities ##TODO
 
 ## Requirements
 - PyTorch
 - torchvision
-- pycocotools
+- YOLOv11
 - Google Colab (recommended)
 
 ## Installation
