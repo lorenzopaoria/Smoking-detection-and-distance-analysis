@@ -1,6 +1,6 @@
 /pth_cigarette_detect
 /pth_person_detect
-/Photo cigarette 
+/Photo dataset 
 /Photo person
 /photo_test_person_cigarette
 cigarettes_model_load.ipynb
